@@ -1,5 +1,5 @@
 
-FROM alpine
+FROM alpine:3.23.3
 
 ADD mdns-repeater.c mdns-repeater.c
 
